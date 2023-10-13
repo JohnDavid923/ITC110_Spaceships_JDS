@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BadGuyManager1
   m_EditorClassIdentifier: 
   prefabNames:
-  - Alien
+  - Snake
   prefabsToSpawn: 05000000
   spawnPoints:
   - spawnPoints:
